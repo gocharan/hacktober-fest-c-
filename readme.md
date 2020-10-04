@@ -1,3 +1,2 @@
+Implementation of basic programs in cpp and py
 
-Hacktober-fest c++ programs
-these are some programs related to linked list
